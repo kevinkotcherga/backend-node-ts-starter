@@ -34,4 +34,3 @@ gh repo create
 
 npm i
 ```
-# backend-node-ts-starter
